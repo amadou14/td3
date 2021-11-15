@@ -1,0 +1,10 @@
+package dp;
+
+public class TheardTa extends Thread {
+	private String task;
+	public TheardTa(String task) {
+		this.task = task ;
+		
+	}
+
+}
